@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/55jl0qwlht3ac7ry?svg=true)](https://ci.appveyor.com/project/AndreyKorolevich/see-front-ajsb)
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
